@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkryadav-sky&label=Profile%20views&color=0e75b6&style=flat" alt="surajkryadav-sky" /> </p>
 
-- 🔭 I’m currently working on **project related to Payroll**
+- 🔭 I have worked on a **project related to Payroll**
 
 - 🌱 I’m currently learning **React Native**
 
