@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkryadav-sky&label=Profile%20views&color=0e75b6&style=flat" alt="surajkryadav-sky" /> </p>
 
-- 🔭 I have worked on a **project related to Payroll**
+- 🔭 I have worked on **project related to Payroll, Alert Dashboard**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DevOps and Machine Learning**
 
 - 👯 I’m looking to collaborate on **projects related to web development particularly in React.js and Node.js and app development particularly in React Native. I have experience with front-end design and back-end development and would love to contribute to projects that focus on user experience and performance optimization.**
 
